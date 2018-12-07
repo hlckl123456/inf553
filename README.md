@@ -5,7 +5,7 @@ User-Based Approach - Zhilin Xu
 
 Item-Based Approach - Anshul Rawat
 
-Neural Net - Based Approach - Ragini Chugh
+Neural Net - Based Approach, LDA modelling - Ragini Chugh
 
 Datasplit scripts - Zhilin Xu
 
